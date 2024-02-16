@@ -1,0 +1,14 @@
+---
+layout: post
+title: 연습용
+date: 2024-02-16 15:02:45 +0900
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: earth.jpg  # Add image post (optional)
+fig-caption: kwon
+tags: [Backend, Java]
+---
+
+## 연습용 포스팅
+### 🎇 깃허브 블로그 포스팅 테스트 중
+### 작성자 : 권혁건
+![sky](../assets/img/sky.jpg)
